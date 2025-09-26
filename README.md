@@ -31,12 +31,12 @@ Form Handling: Google Apps Script (saves messages to Google Sheets)
 
 portfolio/
 
-│── index.html         # Main HTML file
+│── index.html         
 
-│── style.css         # CSS styles
+│── style.css         
 
-│── script.js         # JavaScript functionality
+│── script.js        
 
-│── images/           # Portfolio images & assets
+│── images/           
 
-│── README.md         # Project documentation
+│── README.md        
