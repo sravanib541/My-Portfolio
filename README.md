@@ -30,8 +30,13 @@ Form Handling: Google Apps Script (saves messages to Google Sheets)
 Folder Structure
 
 portfolio/
+
 │── index.html        # Main HTML file
+
 │── style.css         # CSS styles
+
 │── script.js         # JavaScript functionality
+
 │── images/           # Portfolio images & assets
+
 │── README.md         # Project documentation
