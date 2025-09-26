@@ -31,7 +31,7 @@ Form Handling: Google Apps Script (saves messages to Google Sheets)
 
 portfolio/
 
-│── index.html        # Main HTML file
+│── index.html         # Main HTML file
 
 │── style.css         # CSS styles
 
